@@ -1,6 +1,6 @@
-[![MasterHead](https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif)](https://umassdatascienceclub.com/)
-<h1 align="center">Hi 👋, I'm Luke Geel</h1>
-<h3 align="center">A hard working soon to be college graduate</h3>
+[![MasterHead](https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif)]
+<h1 align="center">Luke Geel</h1>
+<h3 align="center">Hard working, soon to be college graduate seeking employment in data science, quantitative trading, or similar stats+econ+cs fields</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
