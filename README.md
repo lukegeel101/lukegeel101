@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif)
+<! ![MasterHead](https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif) >
 <h1 align="center">Luke Geel</h1>
 <h3 align="center">Hard working, soon to be college graduate seeking employment in data science, quantitative trading, or similar stats+econ+cs fields</h3>
 
