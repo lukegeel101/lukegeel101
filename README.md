@@ -4,19 +4,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m the founder & president of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
+- Founder & President of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
 
-- 🌱 I’m currently learning **predictive analysis w/Python**
+- Currently learning **predictive analysis w/Python**
 
-- 👯 I’m looking to collaborate on [Algorthmic trader using Python](https://umassdatascienceclub.com/current-projects/)
+- I’m looking to collaborate on [Algorthmic trader using Python](https://umassdatascienceclub.com/current-projects/)
 
-- 🤝 I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
+- I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
 
-- 💬 Ask me about **my start up ideas**
+- Ask me about **my start up ideas**
 
-- 📫 How to reach me **978-460-7788 or geelluke@gmail.com**
+- Contact me **978-460-7788 or geelluke@gmail.com**
 
-- ⚡ Fun fact **I love snowboarding**
+- Fun fact **I love snowboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
