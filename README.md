@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **predictive analysis w/Python**
 
-- 👯 I’m looking to collaborate on **Algorthmic trader using Python**
+- 👯 I’m looking to collaborate on [Algorthmic trader using Python](https://umassdatascienceclub.com/current-projects/)
 
 - 🤝 I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
 
 - 💬 Ask me about **my start up ideas**
 
-- 📫 How to reach me **978-460-7788**
+- 📫 How to reach me **978-460-7788 or geelluke@gmail.com**
 
 - ⚡ Fun fact **I love snowboarding**
 
