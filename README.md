@@ -1,7 +1,8 @@
 [![MasterHead](https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif)](https://umassdatascienceclub.com/)
 <h1 align="center">Hi 👋, I'm Luke Geel</h1>
 <h3 align="center">A hard working soon to be college graduate</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
+
+(img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
 
 - 🔭 I’m the founder & president of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
 
