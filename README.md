@@ -8,8 +8,8 @@
 - Currently working on [Algorthmic trader using Python](https://umassdatascienceclub.com/current-projects/)
 
 - Past projects: [ULabel ML song popularity model](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
-[Catastrophe modeling](https://github.com/lukegeel101/catastrophe-modeling)
-[Global Terrorism analysis](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
+-[Catastrophe modeling](https://github.com/lukegeel101/catastrophe-modeling)
+-[Global Terrorism analysis](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
 
 - I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
 
