@@ -1,5 +1,5 @@
 <h1 align="center">Luke Geel</h1>
-<h3 align="center">Hard working, soon to be college graduate seeking employment in data science, quantitative trading, software engineering or similar stats+data science+econ fields</h3>
+<h3 align="center">Stats+Data Science+Econ college grad interested in data science, quantitative trading, artifilical intelligence </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
