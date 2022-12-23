@@ -5,17 +5,17 @@
 
 - Founder & President of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
 
-- Currently learning **predictive analysis w/Python**
+- Currently working on [Algorthmic trader using Python](https://umassdatascienceclub.com/current-projects/)
 
-- I’m looking to collaborate on [Algorthmic trader using Python](https://umassdatascienceclub.com/current-projects/)
+- Past projects: [ULabel ML song popularity model]([https://umassdatascienceclub.com/current-projects/](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm))
+-              : [Catastrophe modeling]([https://umassdatascienceclub.com/current-projects/](https://github.com/lukegeel101/catastrophe-modeling))
+-              : [Global Terrorism analysis]([https://umassdatascienceclub.com/current-projects/](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-))
+-              :
 
 - I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
 
-- Ask me about **my start up ideas**
 
 - Contact me **978-460-7788 or geelluke@gmail.com**
-
-- Fun fact **I love snowboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
