@@ -1,7 +1,7 @@
 <h1 align="center">Luke Geel</h1>
-<h2 align="center">Statistics+Data Science+Economics senior at UMass Amherst graduating May 2023 </h2>
-<h2 align="center">Interested in data science, quantitative trading, artifilical intelligence </h2>
-<h2 align="center">Seeking full time employment as data scientist, algorthim developer, software engineer </h2>
+<h2 align="center">Statistics + Data Science + Economics senior at UMass Amherst graduating May 2023 </h2>
+<h3 align="center">Interested in data science, quantitative trading, artifilical intelligence </h3>
+<h4 align="center">Seeking full time employment as data scientist, algorthim developer, software engineer </h4>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
