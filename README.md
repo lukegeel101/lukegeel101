@@ -15,7 +15,7 @@
      
      -[Global Terrorism analysis](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
      
-     -[Analysis of correlation nuclei area with intensity and variability of different colors in biopsied tissue](https://github.com/lukegeel101/Cancer-Analysis-in-R)
+     -[Modeling + analyizing correlation between cancerous nuclei and variability of colors in biopsied tissue](https://github.com/lukegeel101/Cancer-Analysis-in-R)
      
 
 - I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
