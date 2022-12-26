@@ -12,7 +12,7 @@
  
      -[Forecasting, modeling financial damages caused by catastrophes](https://github.com/lukegeel101/catastrophe-modeling)
      
-     -[Visualization of how global terrorism has shifted in past 40 years](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
+     -[Visualization of shifting global terrorism trends since 1970](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
      
      -[Modeling correlation between cancerous nuclei and variability of colors in biopsied tissue](https://github.com/lukegeel101/Cancer-Analysis-in-R)
      
