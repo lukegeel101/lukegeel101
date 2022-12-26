@@ -12,7 +12,9 @@
 - Past projects: [ULabel ML song popularity model](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
  
      -[Catastrophe modeling](https://github.com/lukegeel101/catastrophe-modeling)
+     
      -[Global Terrorism analysis](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
+     
      -[Cancer Linear Regression Analysis](https://github.com/lukegeel101/Cancer-Analysis-in-R)
      
 
