@@ -8,9 +8,9 @@
 
 - Currently working on [Algorthmic trader using Python](https://github.com/lukegeel101/Trading-Algorithm)
 
-- Past projects: [ULabel ML song popularity model](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
+- Past projects: [Machine learning algorithm to predict song popularity](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
  
-     -[Catastrophe modeling](https://github.com/lukegeel101/catastrophe-modeling)
+     -[Forecasting, modeling financial damages caused by catastrophes](https://github.com/lukegeel101/catastrophe-modeling)
      
      -[Visualization of how global terrorism has shifted in past 40 years](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
      
