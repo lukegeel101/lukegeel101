@@ -6,7 +6,7 @@
 
 - Founder & President of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
 
-- Currently working on [Algorthmic trader using Python](https://github.com/lukegeel101/Trading-Algorithm)
+- Currently working on [Artificial intelligence trading algorthim](https://github.com/lukegeel101/Trading-Algorithm)
 
 - Past projects: [Machine learning algorithm to predict song popularity](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
  
