@@ -12,9 +12,9 @@
  
      -[Catastrophe modeling](https://github.com/lukegeel101/catastrophe-modeling)
      
-     -[Global Terrorism analysis](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
+     -[Visualization of how global terrorism has shifted in past 40 years](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
      
-     -[Modeling + analyizing correlation between cancerous nuclei and variability of colors in biopsied tissue](https://github.com/lukegeel101/Cancer-Analysis-in-R)
+     -[Modeling correlation between cancerous nuclei and variability of colors in biopsied tissue](https://github.com/lukegeel101/Cancer-Analysis-in-R)
      
 
 - I’m looking for help with [beating the EV Cannonball Run challenge record](https://www.roadandtrack.com/news/a38095522/ev-cannonball-record-tesla-model-s/)
