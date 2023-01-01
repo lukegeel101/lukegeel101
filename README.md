@@ -10,7 +10,7 @@
 
 - Past projects: [Machine learning algorithm to predict song popularity](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
  
-     -[Forecasting, modeling financial damages caused by catastrophes](https://github.com/lukegeel101/catastrophe-modeling)
+     -[Predicting financial damages caused by natural catastrophes](https://github.com/lukegeel101/catastrophe-modeling)
      
      -[Visualization of shifting global terrorism trends since 1970](https://github.com/lukegeel101/Global-Terrorism-time-series-analysis-R-)
      
