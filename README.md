@@ -1,12 +1,10 @@
 <h1 align="center">Luke Geel</h1>
-<h2 align="center">Statistics + Data Science + Economics at UMass Amherst graduating May 2023 </h2>
-<h3 align="center">Interested in data science, quantitative trading, artifilical intelligence </h3>
-<h4 align="center">Seeking full time employment as data scientist, algorthim developer, software engineer </h4>
+<h2 align="center">Full time data scientist in US Air Force, part time SWE at GenesisAI, free time AI enthusiast</h2>
+<h3 align="center">Interested in artifilical intelligence and entrepreneurship </h3>
+<h4 align="center">Currently trying to win the ARC AGI grand prize</h4>
 
 
 - Founder & President of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
-
-- Currently working on [Artificial intelligence trading algorthim](https://github.com/lukegeel101/Index-Rebalancing)
 
 - Past projects: [Machine learning algorithm to predict song popularity](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
  
