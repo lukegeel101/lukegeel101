@@ -1,7 +1,6 @@
 <h1 align="center">Luke Geel</h1>
-<h2 align="center">Full time data scientist in US Air Force, part time SWE at GenesisAI, free time AI enthusiast</h2>
-<h3 align="center">Interested in artifilical intelligence and entrepreneurship </h3>
-<h4 align="center">Currently trying to win the ARC AGI grand prize</h4>
+<h2 align="center">Full time AI Engineer in US Air Force, part time Co-Founder at AI Startup, free time augmented reality enthusiast</h2>
+<h3 align="center">Interested in artifilical intelligence and entrepreneurship</h3>
 
 
 - Founder & President of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
