@@ -5,6 +5,8 @@
 
 - Founder & President of [UMass Amherst Data Science Club](https://umassdatascienceclub.com/)
 
+- Current project: [Deep Q Reinforcement Learning Blackjack Algorithm](https://github.com/lukegeel101/BlackJack-Q-Learning-RL)
+
 - Past projects: [Machine learning algorithm to predict song popularity](https://github.com/lukegeel101/ULabel-ML-song-popularity-algorithm)
  
      -[Predicting financial damages caused by natural catastrophes](https://github.com/lukegeel101/catastrophe-modeling)
